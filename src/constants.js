@@ -1,0 +1,6 @@
+export const SET_NAME_FILTER = 'SET_NAME_FILTER';
+export const SET_LOCATION_FILTER = 'SET_LOCATION_FILTER';
+export const SET_CURRENT_PAGE = 'SET_CURRENT_PAGE';
+export const ADD_EXHIBIT = 'ADD_EXHIBIT';
+
+export const ITEMS_PER_PAGE = 2;
